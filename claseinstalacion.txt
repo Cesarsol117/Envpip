@@ -1,0 +1,1009 @@
+    1  pwd
+    2  cd..
+    3  cd ..
+    4  ls
+    5  cd /cesarsol117
+    6  cd cesarsol117
+    7  ls
+    8  cd mnt
+    9  ls
+   10  sudi mkdir
+   11  sudo mkdir
+   12  ls
+   13  sudo mkdir personalProjects
+   14  ls
+   15  code .
+   16  sudo mkdir proyectoPrework
+   17  ls
+   18  touch index.html
+   19  ls
+   20  mv index.html proyectoprework
+   21  ls
+   22  cd proyectoprework
+   23  ls
+   24  touch index.html
+   25  ls
+   26  mv index.html proyectoPrework
+   27  sudo mv index.html proyectoPrework
+   28  ls
+   29  sudo mv proyectoPrework personalProjects
+   30  ls
+   31  cd personalProjects
+   32  ls
+   33  cd proyectoPrework
+   34  ls
+   35  code .
+   36  cd ~
+   37  ls
+   38  cd personalProjects
+   39  ls
+   40  cd proyectoPrework
+   41  ls
+   42  code .
+   43  man mv
+   44  cd ~
+   45  sudo apt install nodejs
+   46  node -v
+   47  sudo apt install nodejs
+   48  e
+   49  sudo apt install nodejs
+   50  node -v
+   51  sudo apt install nodejs
+   52  sudo apt-get update
+   53  sudo apt-get upgrade
+   54  sudo apt install nodejs
+   55  node -v
+   56  sudo apt install npm
+   57  cd personalProjects
+   58  ls
+   59  cd ..
+   60  ls
+   61  rm proyectoprework
+   62  ls
+   63  git --version
+   64  ssh-keygen -t rsa -b 4096 -C "cesar_p117@hotmail.com"
+   65  eval "$(ssh-agent -s)"
+   66  ssh-copy-id "cesar_p117@hotmail.com"
+   67  s
+   68  ssh-copy-id "cesar_p117@hotmail.com"
+   69  ssh-copy-id cesar_p117@hotmail.com
+   70  cd ~/.ssh
+   71  ls
+   72  cat id_rsa.pub
+   73  cd ..
+   74  echo "# proyecto-prework" >> README.md
+   75  ls
+   76  rm README.md
+   77  ls
+   78  cd personalProjects
+   79  ls
+   80  echo "# proyecto-prework" >> README.md
+   81  sudo cd personalProjects
+   82  echo "# proyecto-prework" >> README.md
+   83  sudo personalProjects
+   84  echo "# proyecto-prework" >> README.md
+   85  sudo -s
+   86  echo "# proyecto-prework" >> README.md
+   87  bash echo "# proyecto-prework" >> README.md
+   88  echo "# proyecto-prework" >> README.md
+   89  sudo echo "# proyecto-prework" >> README.md
+   90  sudo su
+   91  ls
+   92  cd proyectoPrework
+   93  ls
+   94  echo "# proyecto-prework" >> README.md
+   95  sudo su
+   96  ls
+   97  git init
+   98  sudo su
+   99  cd
+  100  ls
+  101  cd personalProjects
+  102  ls
+  103  echo "# proyecto-prework" >> README.md
+  104  sudo echo "# proyecto-prework" >> README.md
+  105  -bash
+  106  bash
+  107  ls -lS
+  108  ls -lSH
+  109  cd personalProjects
+  110  ls
+  111  ls -lSH
+  112  ls -lS
+  113  ls -lSH
+  114  tree
+  115  cd
+  116  tree
+  117  sudo apt install tree
+  118  tree
+  119  cd ..
+  120  tree
+  121  cd ..
+  122  tree
+  123  tree -L 2
+  124  ls
+  125  cd mnt
+  126  ls
+  127  cd d
+  128  ls
+  129  cd Users
+  130  ls
+  131  cd acer
+  132  ls
+  133  ls Desktop
+  134  cd Desktop
+  135  ls
+  136  cd
+  137  clear
+  138  mkdir
+  139  ls
+  140  mkdir miEscritorio
+  141  ls
+  142  cd miEscritorio
+  143  touch file1 file2 file4
+  144  ls
+  145  rm file1 file2 file4
+  146  ls
+  147  git --version
+  148  sudo apt-get update
+  149  sudo apt-get upgrade
+  150  node -v
+  151  cd
+  152  clear
+  153  nautilus personalProjects/
+  154  sudo apt install nautilus
+  155  clear
+  156  nautilus personalProjects/
+  157  cd
+  158  ls
+  159  cd miEscritorio
+  160  ls
+  161  less document.txt
+  162  head document.txt
+  163  tail document.txt
+  164  explorer.exe
+  165  cd
+  166  ls
+  167  what is sudo
+  168  whatis sudo
+  169  whatis git
+  170  whatis ubuntu
+  171  whatis nodejs
+  172  whatis python
+  173  whatis html
+  174  ls
+  175  cacat error.txt
+  176  cat error.txt
+  177  ls
+  178  cd
+  179  cd..
+  180  cd ..
+  181  ls
+  182  cd
+  183  ls
+  184  ls miEscritorio
+  185  ls
+  186  cd miEscritorio
+  187  ls
+  188  ls -l
+  189  ls -lh
+  190  cd
+  191  ls
+  192  cd personalProjects
+  193  ls
+  194  ls -lh
+  195  cd
+  196  ls -la
+  197  ls -lS
+  198  tree
+  199  tree -L1
+  200  tree -L 11
+  201  tree -L 1
+  202  mkdir pruebas
+  203  ls
+  204  cd pruebas
+  205  cd mkdir directorio1 directorio2 directorio3
+  206  ls
+  207  mkdir dir1 dir2
+  208  mkdir dir1 dir2 dir3
+  209  ls
+  210  cd dir1
+  211  touch file1 file2 file3
+  212  ls
+  213  cp file1 filecopia
+  214  ls
+  215  mv filecopia ..
+  216  ls
+  217  cd ..
+  218  ls
+  219  rm filecopia
+  220  ls
+  221  tree
+  222  ls
+  223  ls -l
+  224  ls -ls
+  225  ls -lr
+  226  tree
+  227  tree -L2
+  228  tree -L 2
+  229  ls
+  230  cd pruebas
+  231  ls
+  232  cd dir1
+  233  ls
+  234  cp file1 file_bk
+  235  ls
+  236  mv file_bk ..
+  237  cd
+  238  find *.png
+  239  cd pruebas
+  240  history
+  241  ls
+  242  pruebas
+  243  cd dir1
+  244  cd pruebas
+  245  ls
+  246  rm file_bk
+  247  ls
+  248  rm -i dir2
+  249  mv dir1 dir2
+  250  ls
+  251  cd dir2
+  252  ls
+  253  ls dir1
+  254  rm -ri dir1
+  255  ls
+  256  cd
+  257  ls
+  258  cd personalProjects
+  259  ls
+  260  cd proyectoPrework
+  261  ls
+  262  cd
+  263  cd personalProyects
+  264  cd personalProjects
+  265  ls
+  266  open README.md
+  267  xdg-open
+  268  xdg-open README.md
+  269  cd
+  270  nautilus
+  271  ls
+  272  ls pruebas
+  273  less prueba1.txt
+  274  cd pruebas
+  275  ls
+  276  less prueba1
+  277  less prueba1.txt
+  278  head prueba1.txt
+  279  tail prueba1.txt
+  280  cd
+  281  man cd
+  282  man ls
+  283  info ls
+  284  whatis cd
+  285  cd
+  286  whatis ls
+  287  whatis bash
+  288  cowsaz -f dragon-and-cow hola mundo
+  289  sudo apt-get update
+  290  sudo apt-get upgrade
+  291  git --version
+  292  cowsaz -f dragon-and-cow hola mundo
+  293  cowsay -f dragon-and-cow hola mundo
+  294  sudo apt install cowsay
+  295  cowsay -f dragon-and-cow hola mundo
+  296  sudo apt-get update
+  297  sudo apt-get upgrade
+  298  ls 
+  299  cd pruebas
+  300  ls
+  301  ls pruebas > archivo.txt
+  302  cd
+  303  ls pruebas > archivo.txt
+  304  ls
+  305  less archivo.txt
+  306  ls personalProjects >> archivo.txt
+  307  less archivo.txt
+  308  ls
+  309  less archivo.txt
+  310  ls pruebas
+  311  ls prueba > archivo.txt
+  312  ls pruebas > archivo1.txt
+  313  ls
+  314  less archivo1.txt
+  315  ls personalProjects >> archivo1txt
+  316  less archivo1.txt
+  317  ls holamundo 2> error.txt
+  318  ls
+  319  head error.txt
+  320  cat
+  321  rm -ri
+  322  ls
+  323  rm archivo.txt archivo1.txt archivo1txt
+  324  ls
+  325  rm error.txt
+  326  ls
+  327  cd pruebas
+  328  ls
+  329  head prueba1
+  330  head prueba1.txt
+  331  whatis cat
+  332  cat prueba1.txt
+  333  sort < prueba1.txt
+  334  whatis <
+  335  ls
+  336  cat archivo.txt
+  337  la
+  338  ls
+  339  cd pruebas
+  340  ls
+  341  touch file.txt dot.txt dot2.txt index.html 
+  342  ls
+  343  ls *.txt
+  344  ls
+  345  touch datos12 datos123 datos1
+  346  ls
+  347  ls datos??
+  348  ls [[:upper:]]*
+  349  ls -d  [[:upper:]]*
+  350  ls -d  [[:lower:]]*
+  351  ls [ad]
+  352  ls [ad]*
+  353  ls [1]*
+  354  ls [#]*
+  355  ls -d  [[:digit:]]*
+  356  ls [1]
+  357  ls
+  358  ls -d  [:digit:]]*
+  359  ls -d  [:digit:]*
+  360  ls -d  [:1:]*
+  361  ls -d  [:digit:]*1
+  362  ls -d  [:digit:]*2
+  363  ls
+  364  ls -d  [:digit:]*2
+  365  ls -d  [:digit:]*
+  366  ls -lh
+  367  ls -lh | less
+  368  whatis cowsay
+  369  whatis lolcat
+  370  sudo apt install lolcat
+  371  whatis lolcat
+  372  whatis cowsay
+  373  cowsay "hola mundo" | lolcat
+  374  whatis cowsay
+  375  cowsay "hola mundo" | lolcat
+  376  cowsay "soy una vaca lecherao" | lolcat
+  377  man lolcat
+  378  man cowsay
+  379  man lolcat
+  380  id
+  381  date
+  382  cd pruebas
+  383  l
+  384  ls | lolcat
+  385  Ls
+  386  ls
+  387  l
+  388  ls
+  389  whatis echo
+  390  man echo
+  391  echo hola mundo
+  392  echo [ahora si vamos con toda]
+  393  ls -lh
+  394  ls
+  395  ls & date & mkdir hilos & cal & ls
+  396  pwd
+  397  mkdir imagen && ls imagen || echo "archivo creado"
+  398  ls
+  399  mkdir imagen2 && echo "archivo creado" && ls
+  400  ls
+  401  ls -lh
+  402  chmod 755 dot.txt
+  403  ls
+  404  ls -lh
+  405  whoami
+  406  id
+  407  ls -la
+  408  cd
+  409  ls -la
+  410  code .bashrc
+  411  which obs
+  412  ls
+  413  which code
+  414  cd pruebas
+  415  ls
+  416  traceroute www.google.com
+  417  sudo apt install inetutils-traceroute
+  418  sudo apt install traceroute
+  419  traceroute www.google.com
+  420  netstat -i
+  421  sudo apt install net-tools
+  422  netstat -i
+  423  explorer.exe
+  424  whatis wget
+  425  help wget
+  426  info wget
+  427  mano wget
+  428  man
+  429  man get
+  430  man wget
+  431  mkdir wget1
+  432  ls
+  433  cd wget1
+  434  ls
+  435  wget https://plataforma.coderhouse.com/cursos/34640/python
+  436  ls
+  437  ls -lh
+  438  traceroute https://plataforma.coderhouse.com/cursos/34640/python
+  439  cd
+  440  ps
+  441  top
+  442  htop
+  443  vim
+  444  zzh --version
+  445  zsh
+  446  traceroute www.google.com
+  447  ls
+  448  history > history.txt
+  449  ls
+  450  cat history
+  451  cat history.txt
+  452  sudo apt-get update
+  453  py -m pip install -U pip
+  454  py -m pip install -U matplotlib
+  455  sudo apt install pythonpy
+  456  pip install matplotlibin
+  457  sudo apt install python3-pip
+  458  sudo apt-get update
+  459  sudo apt-get upgradee
+  460  sudo apt-get upgrade
+  461  shutdown
+  462  python -m pip install --upgrade pip
+  463  python3 -m pip install --upgrade pip
+  464  sudo install python3
+  465  sudo python --upgrade
+  466  sudo apt-get upgradee
+  467  sudo apt-get update
+  468  sudo apt install python3-pip
+  469  ls
+  470  whatis pip
+  471  sudo apt install python3-pip
+  472  whatis pip
+  473  python3 -V
+  474  python3
+  475  sudo apt install -y python3-pip
+  476  pip3
+  477  pip3 -V
+  478  sudo apt update
+  479  sudo apt -y upgrade
+  480  clear
+  481  python3 -V
+  482  pip3 -V
+  483  sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
+  484  ls
+  485  cd pruebas
+  486  ls
+  487  ls -al
+  488  cd
+  489  whatis nautilus
+  490  nautilus -V
+  491  nautilus -v
+  492  nautilus
+  493  cd mnt/d/Users/acer/Desktop
+  494  cd ..
+  495  ls
+  496  cd mnt/d/Users/acer/Desktop
+  497  ls
+  498  cd Backend_python_platzi
+  499  ls
+  500  mkdir EnVpip
+  501  cd EnVpip
+  502  ls
+  503  history > claseinstalacion.txt
+    1  pwd
+    2  cd..
+    3  cd ..
+    4  ls
+    5  cd /cesarsol117
+    6  cd cesarsol117
+    7  ls
+    8  cd mnt
+    9  ls
+   10  sudi mkdir
+   11  sudo mkdir
+   12  ls
+   13  sudo mkdir personalProjects
+   14  ls
+   15  code .
+   16  sudo mkdir proyectoPrework
+   17  ls
+   18  touch index.html
+   19  ls
+   20  mv index.html proyectoprework
+   21  ls
+   22  cd proyectoprework
+   23  ls
+   24  touch index.html
+   25  ls
+   26  mv index.html proyectoPrework
+   27  sudo mv index.html proyectoPrework
+   28  ls
+   29  sudo mv proyectoPrework personalProjects
+   30  ls
+   31  cd personalProjects
+   32  ls
+   33  cd proyectoPrework
+   34  ls
+   35  code .
+   36  cd ~
+   37  ls
+   38  cd personalProjects
+   39  ls
+   40  cd proyectoPrework
+   41  ls
+   42  code .
+   43  man mv
+   44  cd ~
+   45  sudo apt install nodejs
+   46  node -v
+   47  sudo apt install nodejs
+   48  e
+   49  sudo apt install nodejs
+   50  node -v
+   51  sudo apt install nodejs
+   52  sudo apt-get update
+   53  sudo apt-get upgrade
+   54  sudo apt install nodejs
+   55  node -v
+   56  sudo apt install npm
+   57  cd personalProjects
+   58  ls
+   59  cd ..
+   60  ls
+   61  rm proyectoprework
+   62  ls
+   63  git --version
+   64  ssh-keygen -t rsa -b 4096 -C "cesar_p117@hotmail.com"
+   65  eval "$(ssh-agent -s)"
+   66  ssh-copy-id "cesar_p117@hotmail.com"
+   67  s
+   68  ssh-copy-id "cesar_p117@hotmail.com"
+   69  ssh-copy-id cesar_p117@hotmail.com
+   70  cd ~/.ssh
+   71  ls
+   72  cat id_rsa.pub
+   73  cd ..
+   74  echo "# proyecto-prework" >> README.md
+   75  ls
+   76  rm README.md
+   77  ls
+   78  cd personalProjects
+   79  ls
+   80  echo "# proyecto-prework" >> README.md
+   81  sudo cd personalProjects
+   82  echo "# proyecto-prework" >> README.md
+   83  sudo personalProjects
+   84  echo "# proyecto-prework" >> README.md
+   85  sudo -s
+   86  echo "# proyecto-prework" >> README.md
+   87  bash echo "# proyecto-prework" >> README.md
+   88  echo "# proyecto-prework" >> README.md
+   89  sudo echo "# proyecto-prework" >> README.md
+   90  sudo su
+   91  ls
+   92  cd proyectoPrework
+   93  ls
+   94  echo "# proyecto-prework" >> README.md
+   95  sudo su
+   96  ls
+   97  git init
+   98  sudo su
+   99  cd
+  100  ls
+  101  cd personalProjects
+  102  ls
+  103  echo "# proyecto-prework" >> README.md
+  104  sudo echo "# proyecto-prework" >> README.md
+  105  -bash
+  106  bash
+  107  ls -lS
+  108  ls -lSH
+  109  cd personalProjects
+  110  ls
+  111  ls -lSH
+  112  ls -lS
+  113  ls -lSH
+  114  tree
+  115  cd
+  116  tree
+  117  sudo apt install tree
+  118  tree
+  119  cd ..
+  120  tree
+  121  cd ..
+  122  tree
+  123  tree -L 2
+  124  ls
+  125  cd mnt
+  126  ls
+  127  cd d
+  128  ls
+  129  cd Users
+  130  ls
+  131  cd acer
+  132  ls
+  133  ls Desktop
+  134  cd Desktop
+  135  ls
+  136  cd
+  137  clear
+  138  mkdir
+  139  ls
+  140  mkdir miEscritorio
+  141  ls
+  142  cd miEscritorio
+  143  touch file1 file2 file4
+  144  ls
+  145  rm file1 file2 file4
+  146  ls
+  147  git --version
+  148  sudo apt-get update
+  149  sudo apt-get upgrade
+  150  node -v
+  151  cd
+  152  clear
+  153  nautilus personalProjects/
+  154  sudo apt install nautilus
+  155  clear
+  156  nautilus personalProjects/
+  157  cd
+  158  ls
+  159  cd miEscritorio
+  160  ls
+  161  less document.txt
+  162  head document.txt
+  163  tail document.txt
+  164  explorer.exe
+  165  cd
+  166  ls
+  167  what is sudo
+  168  whatis sudo
+  169  whatis git
+  170  whatis ubuntu
+  171  whatis nodejs
+  172  whatis python
+  173  whatis html
+  174  ls
+  175  cacat error.txt
+  176  cat error.txt
+  177  ls
+  178  cd
+  179  cd..
+  180  cd ..
+  181  ls
+  182  cd
+  183  ls
+  184  ls miEscritorio
+  185  ls
+  186  cd miEscritorio
+  187  ls
+  188  ls -l
+  189  ls -lh
+  190  cd
+  191  ls
+  192  cd personalProjects
+  193  ls
+  194  ls -lh
+  195  cd
+  196  ls -la
+  197  ls -lS
+  198  tree
+  199  tree -L1
+  200  tree -L 11
+  201  tree -L 1
+  202  mkdir pruebas
+  203  ls
+  204  cd pruebas
+  205  cd mkdir directorio1 directorio2 directorio3
+  206  ls
+  207  mkdir dir1 dir2
+  208  mkdir dir1 dir2 dir3
+  209  ls
+  210  cd dir1
+  211  touch file1 file2 file3
+  212  ls
+  213  cp file1 filecopia
+  214  ls
+  215  mv filecopia ..
+  216  ls
+  217  cd ..
+  218  ls
+  219  rm filecopia
+  220  ls
+  221  tree
+  222  ls
+  223  ls -l
+  224  ls -ls
+  225  ls -lr
+  226  tree
+  227  tree -L2
+  228  tree -L 2
+  229  ls
+  230  cd pruebas
+  231  ls
+  232  cd dir1
+  233  ls
+  234  cp file1 file_bk
+  235  ls
+  236  mv file_bk ..
+  237  cd
+  238  find *.png
+  239  cd pruebas
+  240  history
+  241  ls
+  242  pruebas
+  243  cd dir1
+  244  cd pruebas
+  245  ls
+  246  rm file_bk
+  247  ls
+  248  rm -i dir2
+  249  mv dir1 dir2
+  250  ls
+  251  cd dir2
+  252  ls
+  253  ls dir1
+  254  rm -ri dir1
+  255  ls
+  256  cd
+  257  ls
+  258  cd personalProjects
+  259  ls
+  260  cd proyectoPrework
+  261  ls
+  262  cd
+  263  cd personalProyects
+  264  cd personalProjects
+  265  ls
+  266  open README.md
+  267  xdg-open
+  268  xdg-open README.md
+  269  cd
+  270  nautilus
+  271  ls
+  272  ls pruebas
+  273  less prueba1.txt
+  274  cd pruebas
+  275  ls
+  276  less prueba1
+  277  less prueba1.txt
+  278  head prueba1.txt
+  279  tail prueba1.txt
+  280  cd
+  281  man cd
+  282  man ls
+  283  info ls
+  284  whatis cd
+  285  cd
+  286  whatis ls
+  287  whatis bash
+  288  cowsaz -f dragon-and-cow hola mundo
+  289  sudo apt-get update
+  290  sudo apt-get upgrade
+  291  git --version
+  292  cowsaz -f dragon-and-cow hola mundo
+  293  cowsay -f dragon-and-cow hola mundo
+  294  sudo apt install cowsay
+  295  cowsay -f dragon-and-cow hola mundo
+  296  sudo apt-get update
+  297  sudo apt-get upgrade
+  298  ls 
+  299  cd pruebas
+  300  ls
+  301  ls pruebas > archivo.txt
+  302  cd
+  303  ls pruebas > archivo.txt
+  304  ls
+  305  less archivo.txt
+  306  ls personalProjects >> archivo.txt
+  307  less archivo.txt
+  308  ls
+  309  less archivo.txt
+  310  ls pruebas
+  311  ls prueba > archivo.txt
+  312  ls pruebas > archivo1.txt
+  313  ls
+  314  less archivo1.txt
+  315  ls personalProjects >> archivo1txt
+  316  less archivo1.txt
+  317  ls holamundo 2> error.txt
+  318  ls
+  319  head error.txt
+  320  cat
+  321  rm -ri
+  322  ls
+  323  rm archivo.txt archivo1.txt archivo1txt
+  324  ls
+  325  rm error.txt
+  326  ls
+  327  cd pruebas
+  328  ls
+  329  head prueba1
+  330  head prueba1.txt
+  331  whatis cat
+  332  cat prueba1.txt
+  333  sort < prueba1.txt
+  334  whatis <
+  335  ls
+  336  cat archivo.txt
+  337  la
+  338  ls
+  339  cd pruebas
+  340  ls
+  341  touch file.txt dot.txt dot2.txt index.html 
+  342  ls
+  343  ls *.txt
+  344  ls
+  345  touch datos12 datos123 datos1
+  346  ls
+  347  ls datos??
+  348  ls [[:upper:]]*
+  349  ls -d  [[:upper:]]*
+  350  ls -d  [[:lower:]]*
+  351  ls [ad]
+  352  ls [ad]*
+  353  ls [1]*
+  354  ls [#]*
+  355  ls -d  [[:digit:]]*
+  356  ls [1]
+  357  ls
+  358  ls -d  [:digit:]]*
+  359  ls -d  [:digit:]*
+  360  ls -d  [:1:]*
+  361  ls -d  [:digit:]*1
+  362  ls -d  [:digit:]*2
+  363  ls
+  364  ls -d  [:digit:]*2
+  365  ls -d  [:digit:]*
+  366  ls -lh
+  367  ls -lh | less
+  368  whatis cowsay
+  369  whatis lolcat
+  370  sudo apt install lolcat
+  371  whatis lolcat
+  372  whatis cowsay
+  373  cowsay "hola mundo" | lolcat
+  374  whatis cowsay
+  375  cowsay "hola mundo" | lolcat
+  376  cowsay "soy una vaca lecherao" | lolcat
+  377  man lolcat
+  378  man cowsay
+  379  man lolcat
+  380  id
+  381  date
+  382  cd pruebas
+  383  l
+  384  ls | lolcat
+  385  Ls
+  386  ls
+  387  l
+  388  ls
+  389  whatis echo
+  390  man echo
+  391  echo hola mundo
+  392  echo [ahora si vamos con toda]
+  393  ls -lh
+  394  ls
+  395  ls & date & mkdir hilos & cal & ls
+  396  pwd
+  397  mkdir imagen && ls imagen || echo "archivo creado"
+  398  ls
+  399  mkdir imagen2 && echo "archivo creado" && ls
+  400  ls
+  401  ls -lh
+  402  chmod 755 dot.txt
+  403  ls
+  404  ls -lh
+  405  whoami
+  406  id
+  407  ls -la
+  408  cd
+  409  ls -la
+  410  code .bashrc
+  411  which obs
+  412  ls
+  413  which code
+  414  cd pruebas
+  415  ls
+  416  traceroute www.google.com
+  417  sudo apt install inetutils-traceroute
+  418  sudo apt install traceroute
+  419  traceroute www.google.com
+  420  netstat -i
+  421  sudo apt install net-tools
+  422  netstat -i
+  423  explorer.exe
+  424  whatis wget
+  425  help wget
+  426  info wget
+  427  mano wget
+  428  man
+  429  man get
+  430  man wget
+  431  mkdir wget1
+  432  ls
+  433  cd wget1
+  434  ls
+  435  wget https://plataforma.coderhouse.com/cursos/34640/python
+  436  ls
+  437  ls -lh
+  438  traceroute https://plataforma.coderhouse.com/cursos/34640/python
+  439  cd
+  440  ps
+  441  top
+  442  htop
+  443  vim
+  444  zzh --version
+  445  zsh
+  446  traceroute www.google.com
+  447  ls
+  448  history > history.txt
+  449  ls
+  450  cat history
+  451  cat history.txt
+  452  sudo apt-get update
+  453  py -m pip install -U pip
+  454  py -m pip install -U matplotlib
+  455  sudo apt install pythonpy
+  456  pip install matplotlibin
+  457  sudo apt install python3-pip
+  458  sudo apt-get update
+  459  sudo apt-get upgradee
+  460  sudo apt-get upgrade
+  461  shutdown
+  462  python -m pip install --upgrade pip
+  463  python3 -m pip install --upgrade pip
+  464  sudo install python3
+  465  sudo python --upgrade
+  466  sudo apt-get upgradee
+  467  sudo apt-get update
+  468  sudo apt install python3-pip
+  469  ls
+  470  whatis pip
+  471  sudo apt install python3-pip
+  472  whatis pip
+  473  python3 -V
+  474  python3
+  475  sudo apt install -y python3-pip
+  476  pip3
+  477  pip3 -V
+  478  sudo apt update
+  479  sudo apt -y upgrade
+  480  clear
+  481  python3 -V
+  482  pip3 -V
+  483  sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
+  484  ls
+  485  cd pruebas
+  486  ls
+  487  ls -al
+  488  cd
+  489  whatis nautilus
+  490  nautilus -V
+  491  nautilus -v
+  492  nautilus
+  493  cd mnt/d/Users/acer/Desktop
+  494  cd ..
+  495  ls
+  496  cd mnt/d/Users/acer/Desktop
+  497  ls
+  498  cd Backend_python_platzi
+  499  ls
+  500  mkdir EnVpip
+  501  cd EnVpip
+  502  ls
+  503  history > claseinstalacion.txt
+  504  ls
+  505  cat claseinstalacion.txt
+  506  history >> claseinstalacion.txt
