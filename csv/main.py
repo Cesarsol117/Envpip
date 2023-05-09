@@ -1,8 +1,9 @@
 import utils                                                    # aca se importa el util donde se sacan los datos para la grafica
 import read_csv                                                 # se importa la lectura del csv
 import charts                                                   # se importa la funcion para la visualizacion de los datos
+import pandas as pd
 # importamos los modulos para los datos
-
+'''
 def run():                                                      #se llamma a la funcion para iniciar el programa
     data = read_csv.read_csv('world_population.csv')      # se llama la funcion read csv y se le envia la ubicacion del archivo y este retorna
                                                                 # un diccionario que se almacena en data{}
@@ -21,3 +22,25 @@ def run():                                                      #se llamma a la 
 if __name__ =='__main__':
         run()
 # -------------------------------------------
+'''
+def run():
+    df = pd.read_csv('world_population.csv')
+    df = df[df['Continent'] == 'South America']
+    countries = df['Country/Territory'].values
+    percentages = df['World Population Percentage'].values
+    charts.generate_pie_chart(countries, percentages)
+
+    data = read_csv.read_csv('world_population.csv')
+    country = input('Type Country => ')
+    print(country)
+
+    result = utils.population_by_country(data, country)
+
+    if len(result) > 0:
+        country = result[0]
+        print(country)
+        labels, values = utils.get_population(country)
+        charts.generate_bar_chart(country['Country/Territory'], labels, values)
+
+if __name__ == '__main__':
+  run()
