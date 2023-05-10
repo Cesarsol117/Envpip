@@ -1,0 +1,6 @@
+services:
+  csv-csv:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    
